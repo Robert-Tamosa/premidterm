@@ -186,7 +186,9 @@ bottom: 40rem;
     border: 0.5px solid #000000
 }
 .stud{
-    width: 75px;
+    position: relative;
+    bottom: 0.9rem;
+    width: 65px;
     color: #FFFFFF;
     background-color: #FF006E;
     border-radius: 5px;
@@ -199,6 +201,8 @@ bottom: 40rem;
     
 }
 .html {
+    position: relative;
+    bottom: 1.9rem;
     color: #111D4A;
     font-family: Inter;
     font-weight: 500;
@@ -209,7 +213,7 @@ bottom: 40rem;
     font-family: Inter;
     position: relative;
     right: 1.5rem;
-    bottom: 2rem;
+    bottom: 4rem;
 }
 .number {
     display: inline;
@@ -225,15 +229,310 @@ bottom: 40rem;
 }
 .paragraph {
     position: relative;
-    bottom: 3.5rem;
+    bottom: 5.5rem;
     left: 1rem;
+}
+.basics {
+    width: 76px;
+    background-color: #C2CAE8;
+    font-family: Inter;
+    position: relative;
+    left: 11rem;
+    font-weight: 500;   
+    font-size: 16px;
+    bottom: 3.5rem;
+    border-radius: 5px;
+
+}
+.basics > p {
+    margin-left: 10px;
+    padding: 0.5px;
 }
 .box1 {
     background-color: #FFFFFF;
-    width: 200px;
+    width: 250px;
+    height: 200px;
     position: relative;
     left: 50rem;
     bottom: 65rem;
-    padding: 10px;
+    padding: 12px;
     border: 2px solid black;
 }
+.stud2{
+    position: relative;
+    bottom: 0.9rem;
+    width: 65px;
+    color: #FFFFFF;
+    background-color: #FF006E;
+    border-radius: 5px;
+    font-family: Inter;
+}
+.stud2 > h2 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 10px;
+    
+}
+.css {
+    position: relative;
+    bottom: 1.9rem;
+    color: #111D4A;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 24px;
+}
+.list2 {
+    font-size: 12px;
+    font-family: Inter;
+    position: relative;
+    right: 1.5rem;
+    bottom: 4rem;
+}
+.number2 {
+    display: inline;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 12px;
+}
+.materials2 {
+    display: inline;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 12px;
+}
+.paragraph2 {
+    position: relative;
+    bottom: 5.5rem;
+    left: 1rem;
+}
+.basics2 {
+    width: 76px;
+    background-color: #C2CAE8;
+    font-family: Inter;
+    position: relative;
+    left: 11rem;
+    font-weight: 500;   
+    font-size: 16px;
+    bottom: 3.5rem;
+    border-radius: 5px;
+
+}
+.basics2 > p {
+    margin-left: 10px;
+    padding: 0.5px;
+}
+.box2 {
+    background-color: #FFFFFF;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    left: 74.5rem;
+    bottom: 79.3rem;
+    padding: 12px;
+    border: 2px solid black;
+}
+.stud3{
+    position: relative;
+    bottom: 0.9rem;
+    width: 65px;
+    color: #FFFFFF;
+    background-color: #FF006E;
+    border-radius: 5px;
+    font-family: Inter;
+}
+.stud3 > h2 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 10px;
+    
+}
+.java {
+    position: relative;
+    bottom: 1.9rem;
+    color: #111D4A;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 24px;
+}
+.list3 {
+    font-size: 12px;
+    font-family: Inter;
+    position: relative;
+    right: 1.5rem;
+    bottom: 4rem;
+}
+.number3 {
+    display: inline;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 12px;
+}
+.materials3 {
+    display: inline;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 12px;
+}
+.paragraph3 {
+    position: relative;
+    bottom: 5.5rem;
+    left: 1rem;
+}
+.basics3 {
+    width: 76px;
+    background-color: #C2CAE8;
+    font-family: Inter;
+    position: relative;
+    left: 11rem;
+    font-weight: 500;   
+    font-size: 16px;
+    bottom: 3.5rem;
+    border-radius: 5px;
+
+}
+.basics3 > p {
+    margin-left: 10px;
+    padding: 0.5px;
+}
+.box3 {
+    background-color: #FFFFFF;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    left: 50rem;
+    bottom: 77rem;
+    padding: 12px;
+    border: 2px solid black;
+}
+.stud4{
+    position: relative;
+    bottom: 0.9rem;
+    width: 65px;
+    color: #FFFFFF;
+    background-color: #FF006E;
+    border-radius: 5px;
+    font-family: Inter;
+}
+.stud4 > h2 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 10px;
+    
+}
+.php {
+    position: relative;
+    bottom: 1.9rem;
+    color: #111D4A;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 24px;
+}
+.list4 {
+    font-size: 12px;
+    font-family: Inter;
+    position: relative;
+    right: 1.5rem;
+    bottom: 4rem;
+}
+.number4 {
+    display: inline;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 12px;
+}
+.materials4 {
+    display: inline;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 12px;
+}
+.paragraph4 {
+    position: relative;
+    bottom: 5.5rem;
+    left: 1rem;
+}
+.basics4 {
+    width: 76px;
+    background-color: #C2CAE8;
+    font-family: Inter;
+    position: relative;
+    left: 11rem;
+    font-weight: 500;   
+    font-size: 16px;
+    bottom: 3.5rem;
+    border-radius: 5px;
+
+}
+.basics4 > p {
+    margin-left: 10px;
+    padding: 0.5px;
+}
+.box4 {
+    background-color: #FFFFFF;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    left: 74.5rem;
+    bottom: 91.2rem;
+    padding: 12px;
+    border: 2px solid black;
+}
+.more {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    bottom: 91.5rem;
+    left: 89rem;
+}
+.not {
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 36px;
+    color: #111D4A;
+    position: relative;
+    left: 16rem;
+    top: 8rem;
+}
+.if {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 25px;
+    color: #111D4A;
+    position: relative;
+    left: 17rem;
+    top: 7.5rem;
+    width: 505px;
+}
+.tour {
+    color: #FFFFFF;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 35px;
+    background: #111D4A;
+    width: 95px;
+    border-radius: 5px;
+    position: relative;
+    left: 17rem;
+    top: 8rem;
+}
+.tour > p {
+    padding: 1px;
+    margin-left: 5px;
+}
+.page {
+    background-color: #FFBE0B;
+    height: 550px;
+    width: 100% ;
+    border: 2px solid #000000;
+    position: relative;
+    bottom: 90rem;
+}
+.pic {
+    position:  relative;
+    left: 60rem;
+    bottom: 11rem;
+    
+}   
