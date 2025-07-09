@@ -645,6 +645,12 @@ bottom: 40rem;
 .explore > p {
     padding-left: 10px;
 }
+.envelope1 > img{
+    position: relative;
+    bottom:25rem;
+    left: 18rem;
+    width: 350px;
+}
 .purplep {
     background: #8338EC;
     height: 500px;
@@ -685,6 +691,12 @@ bottom: 40rem;
     left: 15rem;
     top: 8rem;
 }
+.envelope2 > img {
+    position: relative;
+    bottom:10rem;
+    left: 58rem;
+    width: 350px;
+}
 .navyp {
      background: #111D4A;
      height: 500px;
@@ -692,6 +704,9 @@ bottom: 40rem;
      bottom: 89rem;
 }
 .logo3 > p {
+    position: relative;
+    left: 2rem;
+    top: 1rem;
     font-family: Inter;
     color: #000000;
     font-size: 24px;
@@ -709,10 +724,26 @@ bottom: 40rem;
     color: #000000;
     font-size: 14px;
     font-weight: 400;
+    position: relative;
+    left: 2rem;
+    bottom: 1rem;
 }
 .powered {
     font-family: Inter;
     color: #000000;
     font-size: 14px;
     font-weight: 400;
+    position: relative;
+    text-align: center;
+    position: relative;
+    bottom: 5rem;
+    line-height: 5px;
+}
+.border {
+    border: 1px solid black;
+    width: 1500px;
+}
+.footer {
+    position: relative;
+    bottom: 85rem;
 }
